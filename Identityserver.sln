@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identityserver", "Identityserver", "{692F7CFC-90F7-4B63-9A93-4FB20A012DDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer4", "IdentityServer4\IdentityServer4.csproj", "{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identityserver", "Identityserver\Identityserver.csproj", "{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B2BEC071-D03A-4B0E-ACC5-C7985DECEE13} = {692F7CFC-90F7-4B63-9A93-4FB20A012DDC}
+		{DF0B85B4-4F75-4645-9D47-4EE1F68C3EF6} = {692F7CFC-90F7-4B63-9A93-4FB20A012DDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0301CEA6-B447-44E7-94DF-0CD9C092D8C0}
